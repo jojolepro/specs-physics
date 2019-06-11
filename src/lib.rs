@@ -1,7 +1,7 @@
 #[macro_use]
 extern crate log;
-extern crate ncollide3d as ncollide;
-extern crate nphysics3d as nphysics;
+pub extern crate ncollide3d as ncollide;
+pub extern crate nphysics3d as nphysics;
 
 use std::collections::HashMap;
 
