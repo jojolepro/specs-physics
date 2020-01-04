@@ -34,7 +34,8 @@ nphysics2d = { version = "0.13", optional = true }
 nphysics3d = { version = "0.13", optional = true }
 
 [dependencies.amethyst]
-git = "https://github.com/amethyst/amethyst"
+git = "https://github.com/jojolepro/amethyst"
+branch = "hoppinworld"
 optional = true
 default-features = false
 features = ["vulkan"]
